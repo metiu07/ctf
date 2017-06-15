@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Include for the custom pages
+# include: ["_pages"]
+
 # Site Settings
 locale                   : "en"
 title                    : "CTF writeups"
@@ -111,6 +114,7 @@ author:
 include:
   - .htaccess
   - _pages
+  # ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
