@@ -1,10 +1,9 @@
 ---
 layout: single
+title: It's me right!
 permalink: /about/
 author_profile: true
 ---
-
-# It's me right!
 
 Hi my name is Metiu07,
 
