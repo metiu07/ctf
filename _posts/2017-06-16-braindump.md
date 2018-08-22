@@ -6,8 +6,6 @@ author: true
 
 Pwn challenge from *Security_fest* CTF for 200 points.
 
-Disclaimer: **WORK IN PROGRESS**
-
 ```
 Braindump - Pwn (200 + 0)
 
