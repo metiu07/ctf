@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Braindump
+permalink: /braindump/
 author: true
 ---
 
