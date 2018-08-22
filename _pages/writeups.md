@@ -11,13 +11,13 @@ On this page you can find the list of challenges I wrote about.
 
 # PWN
 
-- [Security_fest2017 - Braindump]({{ site.baseurl }}/braindump/)
+- [Security_fest2017 - Braindump]({{ "/braindump/" | absolute_url}})
 
 # RE
 
-- [CSAW17 - Tablez]({{ site.baseurl }}/tablez/)
-- [Security_fest2017 - Signal]({{ site.baseurl }}/signal/)
+- [CSAW17 - Tablez]({{ "/tablez/" | absolute_url }})
+- [Security_fest2017 - Signal]({{ "/signal/" | absolute_url}})
 
 # PROG
 
-- [Hackcon18 - aMAZEing]({{ site.baseurl }}/amazeing/)
+- [Hackcon18 - aMAZEing]({{ "/amazeing/" | absolute_url }})

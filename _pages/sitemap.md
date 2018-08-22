@@ -17,7 +17,7 @@ You should mainly focus on the assembly, compilation process, [calling conventio
 
 ## Lab
 
-BE safe. [Docker]({{ site.baseurl }}/docker/) and [Vagrant]({{ site.baseurl }}/vagrant/) for starters.
+BE safe. [Docker]({{ "/docker/" | absolute_url}}/docker/) and [Vagrant]({{ "/vagrant/" | absolute_url}}) for starters.
 
 # Crypto
 Bob and Alice can tell you more.

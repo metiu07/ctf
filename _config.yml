@@ -15,11 +15,11 @@ title_separator          : "-"
 name                     : "metiu07"
 description              : "Collection of my security stuff"
 url                      : "https://metiu07.github.io"
-baseurl                  : "ctf" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "metiu07/ctf"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 150
+words_per_minute         : 130
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
